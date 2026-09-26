@@ -1,0 +1,24 @@
+NAME,UID,TYPE,COLOR
+GLN,105,Acc Side,Red
+ASN,144,Don Back,Red
+ASN,144,Acc Back,Red
+ARG,97,Acc Side,Red
+THR,149,Don Back,Yellow
+ARG,124,Acc Side,Yellow
+PRO,126,Arn Con,Green
+LYS,73,Acc Side,Green
+TYR,121,Arn Con,Green
+TRP,163,Arn Con,Purple
+PHE,102,Arn Con,Purple
+LYS,190,Acc Side,Purple
+HIS,173,Acc Side,Orange
+HIS,173,Arn Con,Orange
+LYS,67,Acc Side,Orange
+LEU,132,Arn Con,Navy
+LYS,133,Don Back,Navy
+LYS,133,Acc Back,Navy
+ASP,202,Ion Attr,Teal
+ASP,202,Don Side,Teal
+CYS,82,Don Back,Teal
+CYS,203,Don Back,Teal
+LYS,91,Acc Side,Teal

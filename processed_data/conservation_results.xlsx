@@ -1,0 +1,20 @@
+NAME,UID,TYPE,COLOR,alignment_col,n_sequences_present,pct_identity,avg_blosum62_score
+ARG,124,Acc Side,Yellow,3172,18,27.8,-0.24
+HIS,173,Arn Con,Orange,3230,18,33.3,0.74
+LYS,190,Acc Side,Purple,3248,18,38.9,0.82
+PRO,126,Arn Con,Green,3174,18,44.4,0.9
+ASP,202,Don Side,Teal,3262,17,47.1,1.53
+LYS,67,Acc Side,Orange,3102,18,55.6,1.84
+LYS,91,Acc Side,Teal,3139,18,66.7,2.33
+LEU,132,Arn Con,Navy,3188,18,72.2,2.49
+TRP,163,Arn Con,Purple,3220,18,50.0,2.99
+THR,149,Don Back,Yellow,3205,18,77.8,3.0
+LYS,133,Don Back,Navy,3189,18,72.2,3.01
+CYS,203,Don Back,Teal,3263,17,64.7,3.19
+LYS,73,Acc Side,Green,3108,18,83.3,3.75
+ARG,97,Acc Side,Red,3145,18,94.4,4.44
+CYS,82,Don Back,Teal,3117,18,72.2,4.56
+PHE,102,Arn Con,Purple,3150,18,94.4,5.0
+GLN,105,Acc Side,Red,3153,18,100.0,5.0
+TYR,121,Arn Con,Green,3169,18,77.8,5.22
+ASN,144,Acc Back,Red,3200,18,100.0,6.0
